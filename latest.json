@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "notes": "Security and reliability hardening, and a leaner, smaller build.",
+  "version": "1.2",
+  "notes": "Security hardening, clearer free vs Pro labelling, and a much leaner build.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
