@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "notes": "New: a Startup tab to see and manage login and background items, on-device AI explanations (Apple Intelligence, free to try), one-click Undo after a removal, a clean self-uninstall, and a fresh Pangalin look.",
+  "version": "1.5",
+  "notes": "New: setup in two steps (Full Disk Access, then the background helper, added in macOS's own window; Cancel skips it), and one approval now covers your removals and Undo for 5 minutes. App Store and installer apps can now be removed (macOS asks for your approval). Hidden folders an app keeps in your home folder, such as ~/.ollama, now show up in the review (removing them is Pro), and every Pro item is shown locked, by name and size, so you can see what Pro would remove. Uninstalling an app now also stops the background helpers built into it. Fixed: in 1.4 the background helper couldn't switch or remove system startup items, and Uninstall Pangalin Uninstaller… couldn't remove it; both work now. Updated Licence Terms and Privacy Notice (2026-10-07.2).",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
