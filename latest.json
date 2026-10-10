@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "notes": "Pangalin Uninstaller is now completely free, with every feature included: the Mac-wide sweep (audio plug-ins, daemons, helpers), hidden folders an app keeps in your home folder such as ~/.ollama, removing leftovers of apps you've already deleted, batch uninstall, and unlimited AI explanations, “What is this app?” and uninstall summaries. No licence, no account, no ads. If you'd like to help, there's an optional Support us link at the bottom of the window. Updated Licence Terms and Privacy Notice (2026-10-10).",
+  "version": "1.6.1",
+  "notes": "Pangalin Uninstaller is now completely free, with every feature included: the Mac-wide sweep (audio plug-ins, daemons, helpers), hidden folders an app keeps in your home folder such as ~/.ollama, removing leftovers of apps you've already deleted, batch uninstall, and unlimited AI explanations, “What is this app?” and uninstall summaries. No licence, no account, no ads. If you'd like to help, there's an optional Support us link at the bottom of the window. In 1.6.1: click “by Pangalin” at the bottom of the window for a little about us, with links to Space Manager, Kala’s arcade and our website. Updated Licence Terms and Privacy Notice (2026-10-10).",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
