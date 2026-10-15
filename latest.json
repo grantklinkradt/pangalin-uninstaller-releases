@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "notes": "Leftovers now scans as soon as you open it and leads with one number: how much removed apps left behind. “Left the most” shows which removed apps left the most, and clicking one shows only its files. Every leftover says what it is, and “Why?” explains in plain words why it counts as a leftover. Control-click to ignore an item or everything from one app; Settings › Leftovers lists what you've ignored. A shared audio plug-in's note names the audio apps on your Mac that can load it. The gold tick now says “Known developer”, and the Startup tab says where removed system items are kept. Updated Licence Terms and Privacy Notice (2026-10-14). Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.9.1",
+  "notes": "The review now shows what it deliberately keeps: a company folder that other apps on your Mac still use (for example Native Instruments) appears under “Kept: shared with other apps”, with a padlock and the names of the apps that share it, instead of being left out without a word. A shared audio plug-in's note now also names Logic Pro, GarageBand and MainStage when they can load it. Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
