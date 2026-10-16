@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "notes": "Startup is easier to read: each item says whether it's running, the switch turns it on or off, and Remove… asks before it moves anything. The terms are updated (2026-10-15.2). Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.9.3",
+  "notes": "Startup's list of app login items no longer shows “(null)” where macOS has no name or developer for an item: it shows the app the item belongs to instead. Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
