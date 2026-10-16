@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "notes": "Startup's list of app login items no longer shows “(null)” where macOS has no name or developer for an item: it shows the app the item belongs to instead. Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.9.4",
+  "notes": "Check for Updates… now shows that it's checking, then says you're up to date or why it couldn't check, instead of showing nothing. Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
