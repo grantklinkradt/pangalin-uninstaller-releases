@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "notes": "The review now shows what it deliberately keeps: a company folder that other apps on your Mac still use (for example Native Instruments) appears under “Kept: shared with other apps”, with a padlock and the names of the apps that share it, instead of being left out without a word. A shared audio plug-in's note now also names Logic Pro, GarageBand and MainStage when they can load it. Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.9.2",
+  "notes": "Startup is easier to read: each item says whether it's running, the switch turns it on or off, and Remove… asks before it moves anything. The terms are updated (2026-10-15.2). Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
