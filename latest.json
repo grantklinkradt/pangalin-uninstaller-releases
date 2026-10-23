@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "notes": "Check for Updates… now shows that it's checking, then says you're up to date or why it couldn't check, instead of showing nothing. Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.10.0",
+  "notes": "Recently removed: put back anything you removed in the last 7 days, while it's still in the Trash. The terms are updated (2026-10-23). Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
