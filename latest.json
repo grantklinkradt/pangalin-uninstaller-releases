@@ -1,6 +1,6 @@
 {
-  "version": "1.10.1",
-  "notes": "After Put Back in Recently removed, the status line now says what came back instead of still saying the items were moved to the Trash. Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.10.2",
+  "notes": "Leftovers now also finds well-known apps' data folders named after the app, such as Application Support › Slack, once the app is no longer installed: the same rule Pangalin Space Manager uses. They arrive unticked; check each one. Measuring sizes is also more robust when many measurements run at once. Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
