@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "notes": "Recently removed: put back anything you removed in the last 7 days, while it's still in the Trash. The terms are updated (2026-10-23). Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.10.1",
+  "notes": "After Put Back in Recently removed, the status line now says what came back instead of still saying the items were moved to the Trash. Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
