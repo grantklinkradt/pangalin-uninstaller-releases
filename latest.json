@@ -1,6 +1,6 @@
 {
-  "version": "1.10.3",
-  "notes": "Updated terms (2026-10-25): the Privacy Notice no longer names a person, and the Licence Terms say plainly that cache contents are cleared in place, not moved to the Trash. Nothing else changes. Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.10.4",
+  "notes": "Updated terms (2026-10-25.2): the first-launch summary now says \"This doesn't affect rights the law gives you.\" Nothing else changes. Pangalin Uninstaller is completely free, with every feature included.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
