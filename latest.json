@@ -1,6 +1,6 @@
 {
-  "version": "1.10.4",
-  "notes": "Updated terms (2026-10-25.2): the first-launch summary now says \"This doesn't affect rights the law gives you.\" Nothing else changes. Pangalin Uninstaller is completely free, with every feature included.",
+  "version": "1.11.0",
+  "notes": "Now in German, French and Spanish. Every file in a review says whose it is: \"This app's\", \"Probably this app's\" or \"Might be another app's\" (never ticked for you). Crypto wallets are protected: a wallet folder or browser profile with a wallet arrives unticked, with a warning. Start an uninstall from Finder (right-click › Services › Uninstall with Pangalin Uninstaller), by dropping an app on the Dock icon, or by dragging it onto the window. Still completely free.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
