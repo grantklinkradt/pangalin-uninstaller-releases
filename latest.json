@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "notes": "Now in German, French and Spanish. Every file in a review says whose it is: \"This app's\", \"Probably this app's\" or \"Might be another app's\" (never ticked for you). Crypto wallets are protected: a wallet folder or browser profile with a wallet arrives unticked, with a warning. Start an uninstall from Finder (right-click › Services › Uninstall with Pangalin Uninstaller), by dropping an app on the Dock icon, or by dragging it onto the window. Still completely free.",
+  "version": "1.12.0",
+  "notes": "Drop an app from your Desktop, Downloads or another disk and Pangalin Uninstaller now removes it after the usual review. If it's a second copy of an app you've installed, it moves just that copy to the Trash and leaves the installed app and its settings alone. Drop an app from an open installer disk image and it tells you to eject the image instead. Updated licence terms (2026-10-28). Still completely free.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
