@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
-  "notes": "Remove several apps from one review, even if they're open, and Undo puts the whole batch back. It now checks what's still running after an uninstall and names it, finds more of what apps leave behind, and keeps browser, mail and shared Office data unticked. Updated licence terms (2026-11-02).",
+  "version": "1.13.1",
+  "notes": "Finds more of what apps leave behind. Data folders named a little differently from the app now go too, and an app's plugins no longer stop its folder being removed. A batch now tells you if anything stayed.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
