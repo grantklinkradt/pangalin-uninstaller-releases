@@ -1,6 +1,6 @@
 {
-  "version": "1.13.1",
-  "notes": "Finds more of what apps leave behind. Data folders named a little differently from the app now go too, and an app's plugins no longer stop its folder being removed. A batch now tells you if anything stayed.",
+  "version": "1.13.2",
+  "notes": "Fixed: if the Pangalin Uninstaller disk image was still open, an app's review could say another copy of it was there and leave all its files unticked.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
