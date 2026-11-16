@@ -1,6 +1,6 @@
 {
-  "version": "1.13.2",
-  "notes": "Fixed: if the Pangalin Uninstaller disk image was still open, an app's review could say another copy of it was there and leave all its files unticked.",
+  "version": "1.15.0",
+  "notes": "New: right-click an app or file for Quick Look, Reveal in Finder or Copy Path, and press ⌘Y to preview the selected app. Black Friday: 30% off the first year of Pangalin Space Manager until 30 November. The Support us link is gone.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
