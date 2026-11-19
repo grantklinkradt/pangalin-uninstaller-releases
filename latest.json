@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "notes": "New: when you uninstall an app, anything holding crypto wallets, passwords, keys or a licence key now stays unticked and says why, even renamed backups. Nothing like that goes unless you confirm.",
+  "version": "1.17.0",
+  "notes": "New: an app's details open with In its own words: the files it says it opens and its own reasons for asking for your microphone, camera or other access. The uninstall review and the details panel can be resized, and Sort sits next to search.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
