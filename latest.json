@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0",
-  "notes": "New: an app's details open with In its own words: the files it says it opens and its own reasons for asking for your microphone, camera or other access. The uninstall review and the details panel can be resized, and Sort sits next to search.",
+  "version": "1.18.0",
+  "notes": "New: Apple's App Store apps, such as Pages, GarageBand and Xcode, are in the list and can be removed. Apps that are part of macOS show in their own group, marked can't be removed. Full Disk Access setup is clearer, with the exact steps for macOS 27.3. GarageBand and Logic Pro's sound library stays while one of them still uses it.",
   "notes_url": "https://www.pangalin.com/pangalin-uninstaller/",
   "download_url": "https://www.pangalin.com/download/pangalin-uninstaller/"
 }
